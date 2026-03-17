@@ -41,8 +41,7 @@ Snap Boosting Machine Regressor – Algorithm used to predict crop yield values.
 Model Deployment
 
 This image shows the successful deployment of the trained machine learning model in IBM Cloud Pak for Data. The model named “crop_yeld” is deployed as an online service and is currently active. This confirms that the model is ready to handle real-time prediction requests through API endpoints.
-<img src=""https://github.com/varma563/cropyeild-prediction/blob/955c716a431898172319b247525d767c2c0f86f0/img.png" width="500"/>
-![img.png]("https://github.com/varma563/cropyeild-prediction/blob/955c716a431898172319b247525d767c2c0f86f0/img.png")
+![image alt]("https://github.com/varma563/cropyeild-prediction/blob/955c716a431898172319b247525d767c2c0f86f0/img.png")
 
 
 
