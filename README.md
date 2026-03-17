@@ -7,12 +7,19 @@ The model is automatically built using IBM AutoAI, which generates multiple pipe
 The final deployed model predicts crop yield values that can help farmers and agricultural planners make better decisions.
 
 2️⃣ Project Features
+
 ✅ Automatic machine learning model generation
+
 ✅ Data preprocessing and feature engineering
+
 ✅ Hyperparameter optimization
+
 ✅ Multiple pipeline generation
+
 ✅ Best model selection using evaluation metrics
+
 ✅ Online model deployment
+
 ✅ Real-time prediction using API
 
 **🔧 Technologies **
