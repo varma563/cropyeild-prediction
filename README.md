@@ -22,7 +22,7 @@ The final deployed model predicts crop yield values that can help farmers and ag
 
 ✅ Real-time prediction using API
 
-**🔧 Technologies **
+## 🔧 Technologies 
 
 Python – Used for data processing and building the machine learning model.
 
@@ -47,21 +47,32 @@ This image shows the successful deployment of the trained machine learning model
 
 This section shows the deployment, pipelines, and prediction outputs of the model.
 
-<p align="center">
+<p>
+  
   IBM Cloud deployment page showing the crop_yield model successfully deployed and online.
-  <img src="img.png" width="45%"/>
-  <br>
+  
+  <img src="img.png" width="100%"/>
+ 
   API reference screen displaying private and public endpoints for accessing the deployed model.
   
-  <img src="img1.png" width="45%"/><br>
-
-Prediction results page showing regression output with predicted value (~403.30).
+  <img src="img1.png" width="100%"/>
   
-  <img src="img2.png" width="45%"/>
-  <br>
+Prediction results page showing regression output with predicted value (~403.30).
+
+  <img src="img2.png" width="100%"/>
+  
   AutoAI experiment pipeline showing model training steps and completed workflow with Snap Boosting Machine Regressor.
-  <img src="img4.png" width="45%"/>
+  
+  <img src="img4.png" width="100%"/>
 </p>
+
+## Conclusion
+
+This project demonstrates how to build and deploy a machine learning model using IBM Cloud AutoAI. The model was trained using the Snap Boosting Machine Regressor and successfully deployed to generate predictions through API endpoints. The workflow covers the complete pipeline from data preprocessing to model evaluation and real-time prediction, showing the practical implementation of cloud-based machine learning.
+
+## Author
+
+Kasu Varma Kopanathi
 
 
 
