@@ -48,9 +48,18 @@ This image shows the successful deployment of the trained machine learning model
 This section shows the deployment, pipelines, and prediction outputs of the model.
 
 <p align="center">
+  IBM Cloud deployment page showing the crop_yield model successfully deployed and online.
   <img src="img.png" width="45%"/>
-  <img src="img1.png" width="45%"/><br><br>
+  <br>
+  API reference screen displaying private and public endpoints for accessing the deployed model.
+  
+  <img src="img1.png" width="45%"/><br>
+
+Prediction results page showing regression output with predicted value (~403.30).
+  
   <img src="img2.png" width="45%"/>
+  <br>
+  AutoAI experiment pipeline showing model training steps and completed workflow with Snap Boosting Machine Regressor.
   <img src="img4.png" width="45%"/>
 </p>
 
