@@ -42,8 +42,9 @@ Model Deployment
 
 This image shows the successful deployment of the trained machine learning model in IBM Cloud Pak for Data. The model named “crop_yeld” is deployed as an online service and is currently active. This confirms that the model is ready to handle real-time prediction requests through API endpoints.
 
-![image alt]
-(https://github.com/varma563/cropyeild-prediction/blob/cf276d64f9732c5ac3189b35be402b27715eabd8/img.png")
+![image alt]("img.png")
+
+
 
 
 
